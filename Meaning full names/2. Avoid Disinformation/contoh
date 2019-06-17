@@ -1,0 +1,11 @@
+===== this is very bad code ==============
+int a = l;
+if ( O == l )
+a = O1;
+else
+l = 01;
+
+
+
+
+============ clean code ==================
